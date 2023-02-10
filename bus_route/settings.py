@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     #apps
     'rest_framework',
     'route_app',
-    'django_tables2'
+    'django_tables2',
+    'api'
 ]
 
 MIDDLEWARE = [
